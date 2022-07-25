@@ -1,16 +1,5 @@
-# preco_bitcoin
+# Preço Bitcoin
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+App feito em Flutter para saber o valor de compra do bitcoin de acordo com a moeda selecionada, sendo as opções o real, dolar, euro, yene e rublo.  
+O App usa a API da blockchain para ter acesso aos dados em tempo real.
+<img src="https://github.com/RafaelGasparoto/Preco_Bitcoin/blob/main/imagens/app_imagem.jfif"/>
